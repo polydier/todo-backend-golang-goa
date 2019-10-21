@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "test heroku",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "todo-backend-golang-goa",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
